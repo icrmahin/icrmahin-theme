@@ -4,4 +4,4 @@ version = "1.0.4"
 schema_version = 1
 authors = ["icrmahin"]
 description = "Calm, vibrant dark themes for focused coding. Three dark variants, low eye fatigue."
-repository = "https://github.com/icrmahin/icrmahin-theme-zed"
+repository = "https://github.com/icrmahin/icrmahin-theme"
